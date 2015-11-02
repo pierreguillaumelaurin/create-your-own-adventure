@@ -29,3 +29,5 @@ Que faites-vous ?
 [J'appelle le genie](appelle-genie/appelle-genie.md)
 
 [Je me lève et me dirige vers la sortie](sortie/pousser-porte/pousser-porte.md)
+
+[Je dis bonjour aux oiseaux](sortie/pousser-porte/pousser-porte.md)
